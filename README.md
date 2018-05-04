@@ -1,7 +1,7 @@
 # xxtea_decrypt
 xxtea decrypt program
 
-这程序为解密采用xxtea加密算法加密的文件。
+此程序用于解密采用xxtea加密算法加密的文件。
 
 
 # usage:
